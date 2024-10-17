@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Electrical and Computer Engineering Ph.D First-year student at <a href='https://pearsonlab.github.io'>Pearson Lab</a>, Duke University
+subtitle: Durham, NC
 
 profile:
   align: right
@@ -14,3 +14,4 @@ news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
+Hi there! I'm currently a first-year Electrical and Computer Engineering Ph.D student at Duke University, working with Professor <a href='https://pearsonlab.github.io'>John Pearson</a>. 
