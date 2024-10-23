@@ -2,8 +2,7 @@
 layout: page
 title: Projects
 permalink: /projects/
-description: A growing collection of the work I did for PhD. 
-During my Master's study, I also accomplished a series of projects for building up my software engineering skills, I put there here as well.
+description: A growing collection of the work I did for PhD. During my Master's study, I also accomplished a series of projects for building up my software engineering skills, I put them here as well.
 nav: true
 nav_order: 3
 display_categories: [PhD Work, Software Engineering]
