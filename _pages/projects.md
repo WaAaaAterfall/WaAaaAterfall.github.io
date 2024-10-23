@@ -1,11 +1,11 @@
 ---
 layout: page
-title: projects
+title: Projects
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: A growing collection of the work I did for PhD. During my Master's study, I also accomplished a series of projects for building up my software engineering skills, I put there here as well.
 nav: true
 nav_order: 3
-display_categories: [work, fun]
+display_categories: [PhD Work, Software Engineering]
 horizontal: false
 ---
 

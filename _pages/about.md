@@ -11,7 +11,8 @@ profile:
   more_info:
 
 news: false # includes a list of news items
+posts: false
 selected_papers: false # includes a list of papers marked as "selected={true}"
-social: false # includes social icons at the bottom of the page
+social: true # includes social icons at the bottom of the page
 ---
 Hi there! I'm currently a first-year Electrical and Computer Engineering Ph.D student at Duke University, working with Professor <a href='https://pearsonlab.github.io'>John Pearson</a>. 
