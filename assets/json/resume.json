@@ -5,118 +5,92 @@
     "email": "shiyang.pan@duke.edu",
     "summary": ""
   },
-  "work": [
-    {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
-    }
-  ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "institution": "Duke University",
+      "location": "Durham, USA",
+      "url": "https://ece.duke.edu",
+      "area": "Electrical & Computer Engineering",
+      "studyType": "Ph.D.",
+      "startDate": "2024-08",
+      "endDate": "Present"
+    },
+    {
+      "institution": "Duke University",
+      "location": "Durham, USA",
+      "url": "https://ece.duke.edu",
+      "area": "Electrical & Computer Engineering",
+      "studyType": "M.S.",
+      "startDate": "2022-08",
+      "endDate": "2024-05"
+    },
+    {
+      "institution": "Xi'an Jiaotong-Liverpool University (XJTLU)",
+      "location": "Suzhou, China",
+      "url": "https://www.xjtlu.edu.cn/en/study/undergraduate/applied-mathematics",
+      "area": "Applied Mathematics",
+      "studyType": "Dual BSc",
+      "startDate": "2018-09",
+      "endDate": "2022-06"
+    },
+    {
+      "institution": "University of Liverpool",
+      "location": "Liverpool, UK",
+      "url": "https://www.liverpool.ac.uk/courses/2025/mathematics-bsc-hons",
+      "area": "Mathematics",
+      "studyType": "Dual BSc",
+      "startDate": "2018-09",
+      "endDate": "2022-06"
+    }
+  ],
+  "Research Experience": [
+    {
+      "name": "Department of Neurobiology, Duke University",
+      "position": "Research Assistant",
+      "startDate": "2023-05",
+      "endDate": "Present"
+    },
+    {
+      "name": "Division of Natural and Applied Sciences, Duke Kunshan University",
+      "position": "Research Assistant",
+      "startDate": "2023-03",
+      "endDate": "2023-09"
+    },
+    {
+      "name": "Department of Biology, XJTLU",
+      "position": "Research Assistant",
+      "startDate": "2021-05",
+      "endDate": "2022-05"
     }
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
-    }
-  ],
-  "certificates": [
-    {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
-    }
-  ],
-  "publications": [
-    {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
-    }
-  ],
-  "skills": [
-    {
-      "name": "Physics",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
-    }
-  ],
-  "languages": [
-    {
-      "language": "German",
-      "fluency": "Native speaker",
-      "icon": ""
+      "title": "University Academic Excellent Scholarship for 2020-2021 (Top 2%)",
+      "date": "2021",
+      "awarder": "XJTLU",
+      "url": "",
+      "summary": ""
     },
     {
-      "language": "English",
-      "fluency": "Fluent",
-      "icon": ""
-    }
-  ],
-  "interests": [
-    {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "title": "Summer Undergraduate Research Fellowship",
+      "date": "2021",
+      "awarder": "XJTLU",
+      "url": "",
+      "summary": ""
     },
     {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    }
-  ],
-  "projects": [
+      "title": "University Academic Excellent Scholarship for 2019-2020 (Top 1%)",
+      "date": "2020",
+      "awarder": "XJTLU",
+      "url": "",
+      "summary": ""
+    },
     {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
+      "title": "University Academic Excellent Scholarship for 2018-2019 (Top 7%)",
+      "date": "2019",
+      "awarder": "XJTLU",
+      "url": "",
+      "summary": ""
     }
   ]
 }
