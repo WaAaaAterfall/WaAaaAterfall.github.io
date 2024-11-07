@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Stock Exchange Simulation
+title: Stock Exchange Simulator
 description: A python stock exchange simulation that can handle requests from multiple players.
 img: 
 importance: 2

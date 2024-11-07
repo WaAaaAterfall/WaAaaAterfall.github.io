@@ -1,7 +1,7 @@
 ---
 layout: page
 title: HTTP Proxy Server
-description: A HTTP caching proxy server that concurrently handles GET, POST and CONNECT requests with caching responses according to the rules defined in RFC7234.
+description: A HTTP caching proxy server that concurrently handles GET, POST and CONNECT requests with caching.
 img: 
 importance: 1
 category: Software Development

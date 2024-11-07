@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Mini-Amazon
-description: A full-stack scable web app modeling Amazon System interacting with UPS warehouse delivery system. The application is implemented using Django, PostgreSQL.
+description: A full-stack scalable Python Amazon shopping System interacting with a UPS warehouse delivery system. 
 img: 
 importance: 1
 category: Software Development
